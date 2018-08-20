@@ -17,6 +17,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>DJIA</title>
+    <link href="http://LinBQ001.github.io/en/Index/DJIA/"/>
+    <id>http://LinBQ001.github.io/en/Index/DJIA/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
+    
+    <summary type="html">
+    
+      Smart Money Flow Index for Dow Jones Industrial Average
+    
+    </summary>
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+    
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
+    
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
+    
+  </entry>
+  
+  <entry>
     <title>HSI</title>
     <link href="http://LinBQ001.github.io/en/Index/HSI/"/>
     <id>http://LinBQ001.github.io/en/Index/HSI/</id>
@@ -61,9 +83,9 @@
   </entry>
   
   <entry>
-    <title>Smart Money Flow Index</title>
-    <link href="http://LinBQ001.github.io/en/Index/SMFI/"/>
-    <id>http://LinBQ001.github.io/en/Index/SMFI/</id>
+    <title>SSE</title>
+    <link href="http://LinBQ001.github.io/en/Index/SSE/"/>
+    <id>http://LinBQ001.github.io/en/Index/SSE/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
@@ -105,33 +127,11 @@
   </entry>
   
   <entry>
-    <title>DJIA</title>
-    <link href="http://LinBQ001.github.io/en/Index/DJIA/"/>
-    <id>http://LinBQ001.github.io/en/Index/DJIA/</id>
+    <title>Introduction of Smart Money Flow Index</title>
+    <link href="http://LinBQ001.github.io/en/WhatIS/SMFI/"/>
+    <id>http://LinBQ001.github.io/en/WhatIS/SMFI/</id>
     <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for Dow Jones Industrial Average
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SSE</title>
-    <link href="http://LinBQ001.github.io/en/Index/SSE/"/>
-    <id>http://LinBQ001.github.io/en/Index/SSE/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
+    <updated>2018-08-20T16:40:00.000Z</updated>
     
     <summary type="html">
     
@@ -139,7 +139,7 @@
     
     </summary>
     
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+      <category term="WhatIS" scheme="http://LinBQ001.github.io/categories/WhatIS/"/>
     
     
       <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>

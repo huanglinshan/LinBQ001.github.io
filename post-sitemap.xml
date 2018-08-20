@@ -7,6 +7,22 @@
     </url>
 
     <url>
+        <loc>http://LinBQ001.github.io/en/WhatIS/SMFI/</loc>
+        <lastmod>2018-08-20T16:40:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://LinBQ001.github.io/en/Index/DJIA/</loc>
+        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://LinBQ001.github.io/en/Index/HSI/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -23,7 +39,7 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/en/Index/SMFI/</loc>
+        <loc>http://LinBQ001.github.io/en/Index/SSE/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -32,22 +48,6 @@
 
     <url>
         <loc>http://LinBQ001.github.io/en/Index/SPX/</loc>
-        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/en/Index/DJIA/</loc>
-        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/en/Index/SSE/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
