@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Data Visualization</title>
+  <title>Smart Money Flow Index</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://LinBQ001.github.io/"/>
-  <updated>2018-08-20T16:40:00.000Z</updated>
+  <updated>2018-08-20T14:45:00.000Z</updated>
   <id>http://LinBQ001.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Introduction</title>
-    <link href="http://LinBQ001.github.io/en/WhatIs/Introduction/"/>
-    <id>http://LinBQ001.github.io/en/WhatIs/Introduction/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T16:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Introduction of Smart Money Flow Index
-    
-    </summary>
-    
-      <category term="WhatIs" scheme="http://LinBQ001.github.io/categories/WhatIs/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
   
   <entry>
     <title>DJIA</title>
@@ -61,19 +39,19 @@
   </entry>
   
   <entry>
-    <title>NDX</title>
-    <link href="http://LinBQ001.github.io/en/Index/NDX/"/>
-    <id>http://LinBQ001.github.io/en/Index/NDX/</id>
+    <title>Introduction</title>
+    <link href="http://LinBQ001.github.io/en/WhatIs/Introduction/"/>
+    <id>http://LinBQ001.github.io/en/WhatIs/Introduction/</id>
     <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
+    <updated>2018-08-20T16:40:00.000Z</updated>
     
     <summary type="html">
     
-      Smart Money Flow Index for Nasdaq Composite
+      Introduction of Smart Money Flow Index
     
     </summary>
     
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+      <category term="WhatIs" scheme="http://LinBQ001.github.io/categories/WhatIs/"/>
     
     
       <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
@@ -92,6 +70,28 @@
     <summary type="html">
     
       Smart Money Flow Index for Hang Seng Index
+    
+    </summary>
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+    
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
+    
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NDX</title>
+    <link href="http://LinBQ001.github.io/en/Index/NDX/"/>
+    <id>http://LinBQ001.github.io/en/Index/NDX/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
+    
+    <summary type="html">
+    
+      Smart Money Flow Index for Nasdaq Composite
     
     </summary>
     
