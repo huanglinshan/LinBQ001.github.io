@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://dev-dark-theme.codermarcos.com</loc>
+        <loc>http://LinBQ001.github.io</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://dev-dark-theme.codermarcos.com/categories/Settings/</loc>
+        <loc>http://LinBQ001.github.io/categories/Theme/</loc>
+        <lastmod>2017-12-09T16:10:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://LinBQ001.github.io/categories/HowTo/</loc>
+        <lastmod>2017-12-09T16:20:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://LinBQ001.github.io/categories/Settings/</loc>
         <lastmod>2017-12-09T16:30:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://dev-dark-theme.codermarcos.com/categories/HowTo/</loc>
-        <lastmod>2017-12-09T16:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://dev-dark-theme.codermarcos.com/categories/Theme/</loc>
-        <lastmod>2017-12-09T16:50:00.000Z</lastmod>
+        <loc>http://LinBQ001.github.io/categories/Index/</loc>
+        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
