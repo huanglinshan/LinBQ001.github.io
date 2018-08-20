@@ -7,6 +7,22 @@
     </url>
 
     <url>
+        <loc>http://LinBQ001.github.io/pt/Index/SPX/</loc>
+        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://LinBQ001.github.io/pt/Index/NDX/</loc>
+        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://LinBQ001.github.io/pt/Index/HSI/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -23,7 +39,7 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/pt/Index/NDX/</loc>
+        <loc>http://LinBQ001.github.io/pt/Index/SMFI/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -33,70 +49,6 @@
     <url>
         <loc>http://LinBQ001.github.io/pt/Index/SSE/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/pt/Index/SPX/</loc>
-        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/pt/Index/SMFI/</loc>
-        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/stock/Index/NDX/</loc>
-        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/stock/Index/DJIA/</loc>
-        <lastmod>2017-12-09T16:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/stock/Settings/HSI/</loc>
-        <lastmod>2017-12-09T16:30:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/stock/HowTo/000001/</loc>
-        <lastmod>2017-12-09T16:20:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/stock/Theme/SPX/</loc>
-        <lastmod>2017-12-09T16:10:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://LinBQ001.github.io/stock/Theme/SMFI/</loc>
-        <lastmod>2017-12-09T16:10:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

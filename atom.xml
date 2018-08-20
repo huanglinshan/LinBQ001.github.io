@@ -17,15 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>HSI</title>
-    <link href="http://LinBQ001.github.io/pt/Index/HSI/"/>
-    <id>http://LinBQ001.github.io/pt/Index/HSI/</id>
+    <title>SPX</title>
+    <link href="http://LinBQ001.github.io/pt/Index/SPX/"/>
+    <id>http://LinBQ001.github.io/pt/Index/SPX/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
     <summary type="html">
     
-      Smart Money Flow Index for Hang Seng Index
+      Smart Money Flow Index for S &amp; P 500 Index
     
     </summary>
     
@@ -61,59 +61,15 @@
   </entry>
   
   <entry>
-    <title>SSE</title>
-    <link href="http://LinBQ001.github.io/pt/Index/SSE/"/>
-    <id>http://LinBQ001.github.io/pt/Index/SSE/</id>
+    <title>HSI</title>
+    <link href="http://LinBQ001.github.io/pt/Index/HSI/"/>
+    <id>http://LinBQ001.github.io/pt/Index/HSI/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
     <summary type="html">
     
-      Smart Money Flow Index for NASDAQ Com
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SPX</title>
-    <link href="http://LinBQ001.github.io/pt/Index/SPX/"/>
-    <id>http://LinBQ001.github.io/pt/Index/SPX/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for S &amp; P 500 Index
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Smart Money Flow Index</title>
-    <link href="http://LinBQ001.github.io/pt/Index/SMFI/"/>
-    <id>http://LinBQ001.github.io/pt/Index/SMFI/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for NASDAQ Com
+      Smart Money Flow Index for Hang Seng Index
     
     </summary>
     
@@ -149,9 +105,9 @@
   </entry>
   
   <entry>
-    <title>NDX</title>
-    <link href="http://LinBQ001.github.io/stock/Index/NDX/"/>
-    <id>http://LinBQ001.github.io/stock/Index/NDX/</id>
+    <title>Smart Money Flow Index</title>
+    <link href="http://LinBQ001.github.io/pt/Index/SMFI/"/>
+    <id>http://LinBQ001.github.io/pt/Index/SMFI/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
@@ -171,26 +127,24 @@
   </entry>
   
   <entry>
-    <title>DJIA</title>
-    <link href="http://LinBQ001.github.io/stock/Index/DJIA/"/>
-    <id>http://LinBQ001.github.io/stock/Index/DJIA/</id>
-    <published>2017-12-09T16:40:00.000Z</published>
-    <updated>2017-12-09T16:40:00.000Z</updated>
+    <title>SSE</title>
+    <link href="http://LinBQ001.github.io/pt/Index/SSE/"/>
+    <id>http://LinBQ001.github.io/pt/Index/SSE/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
     
     <summary type="html">
     
-      Tutorial how to use this theme
+      Smart Money Flow Index for NASDAQ Com
     
     </summary>
     
       <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
     
     
-      <category term="Run" scheme="http://LinBQ001.github.io/tags/Run/"/>
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
     
-      <category term="Installation" scheme="http://LinBQ001.github.io/tags/Installation/"/>
-    
-      <category term="Publish" scheme="http://LinBQ001.github.io/tags/Publish/"/>
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
     
   </entry>
   
