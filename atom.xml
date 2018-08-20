@@ -18,8 +18,8 @@
   
   <entry>
     <title>HSI</title>
-    <link href="http://LinBQ001.github.io/Index/HSI/"/>
-    <id>http://LinBQ001.github.io/Index/HSI/</id>
+    <link href="http://LinBQ001.github.io/en/Index/HSI/"/>
+    <id>http://LinBQ001.github.io/en/Index/HSI/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
@@ -39,31 +39,9 @@
   </entry>
   
   <entry>
-    <title>SPX</title>
-    <link href="http://LinBQ001.github.io/Index/SPX/"/>
-    <id>http://LinBQ001.github.io/Index/SPX/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for S &amp; P 500 Index
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
-  
-  <entry>
     <title>NDX</title>
-    <link href="http://LinBQ001.github.io/Index/NDX/"/>
-    <id>http://LinBQ001.github.io/Index/NDX/</id>
+    <link href="http://LinBQ001.github.io/en/Index/NDX/"/>
+    <id>http://LinBQ001.github.io/en/Index/NDX/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
@@ -83,9 +61,53 @@
   </entry>
   
   <entry>
+    <title>Smart Money Flow Index</title>
+    <link href="http://LinBQ001.github.io/en/Index/SMFI/"/>
+    <id>http://LinBQ001.github.io/en/Index/SMFI/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
+    
+    <summary type="html">
+    
+      Smart Money Flow Index for NASDAQ Com
+    
+    </summary>
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+    
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
+    
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SPX</title>
+    <link href="http://LinBQ001.github.io/en/Index/SPX/"/>
+    <id>http://LinBQ001.github.io/en/Index/SPX/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
+    
+    <summary type="html">
+    
+      Smart Money Flow Index for S &amp; P 500 Index
+    
+    </summary>
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+    
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
+    
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
+    
+  </entry>
+  
+  <entry>
     <title>DJIA</title>
-    <link href="http://LinBQ001.github.io/Index/DJIA/"/>
-    <id>http://LinBQ001.github.io/Index/DJIA/</id>
+    <link href="http://LinBQ001.github.io/en/Index/DJIA/"/>
+    <id>http://LinBQ001.github.io/en/Index/DJIA/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
@@ -106,30 +128,8 @@
   
   <entry>
     <title>SSE</title>
-    <link href="http://LinBQ001.github.io/Index/SSE/"/>
-    <id>http://LinBQ001.github.io/Index/SSE/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for NASDAQ Com
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Smart Money Flow Index</title>
-    <link href="http://LinBQ001.github.io/Index/SMFI/"/>
-    <id>http://LinBQ001.github.io/Index/SMFI/</id>
+    <link href="http://LinBQ001.github.io/en/Index/SSE/"/>
+    <id>http://LinBQ001.github.io/en/Index/SSE/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
