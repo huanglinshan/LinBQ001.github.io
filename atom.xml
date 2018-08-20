@@ -40,8 +40,8 @@
   
   <entry>
     <title>Introduction of SMFI</title>
-    <link href="http://LinBQ001.github.io/en/WhatIS/Introduction-of-SMFI/"/>
-    <id>http://LinBQ001.github.io/en/WhatIS/Introduction-of-SMFI/</id>
+    <link href="http://LinBQ001.github.io/en/WhatIs/Introduction-of-SMFI/"/>
+    <id>http://LinBQ001.github.io/en/WhatIs/Introduction-of-SMFI/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T16:40:00.000Z</updated>
     
@@ -51,7 +51,7 @@
     
     </summary>
     
-      <category term="WhatIS" scheme="http://LinBQ001.github.io/categories/WhatIS/"/>
+      <category term="WhatIs" scheme="http://LinBQ001.github.io/categories/WhatIs/"/>
     
     
       <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
