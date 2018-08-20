@@ -7,7 +7,7 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/pt/Index/SPX/</loc>
+        <loc>http://LinBQ001.github.io/pt/Index/DJIA/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -31,7 +31,7 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/pt/Index/DJIA/</loc>
+        <loc>http://LinBQ001.github.io/pt/Index/SSE/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -47,7 +47,7 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/pt/Index/SSE/</loc>
+        <loc>http://LinBQ001.github.io/pt/Index/SPX/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

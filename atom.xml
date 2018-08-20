@@ -17,15 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>SPX</title>
-    <link href="http://LinBQ001.github.io/pt/Index/SPX/"/>
-    <id>http://LinBQ001.github.io/pt/Index/SPX/</id>
+    <title>DJIA</title>
+    <link href="http://LinBQ001.github.io/pt/Index/DJIA/"/>
+    <id>http://LinBQ001.github.io/pt/Index/DJIA/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
     <summary type="html">
     
-      Smart Money Flow Index for S &amp; P 500 Index
+      Smart Money Flow Index for Dow Jones Industrial Average
     
     </summary>
     
@@ -83,15 +83,15 @@
   </entry>
   
   <entry>
-    <title>DJIA</title>
-    <link href="http://LinBQ001.github.io/pt/Index/DJIA/"/>
-    <id>http://LinBQ001.github.io/pt/Index/DJIA/</id>
+    <title>SSE</title>
+    <link href="http://LinBQ001.github.io/pt/Index/SSE/"/>
+    <id>http://LinBQ001.github.io/pt/Index/SSE/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
     <summary type="html">
     
-      Smart Money Flow Index for Dow Jones Industrial Average
+      Smart Money Flow Index for NASDAQ Com
     
     </summary>
     
@@ -127,15 +127,15 @@
   </entry>
   
   <entry>
-    <title>SSE</title>
-    <link href="http://LinBQ001.github.io/pt/Index/SSE/"/>
-    <id>http://LinBQ001.github.io/pt/Index/SSE/</id>
+    <title>SPX</title>
+    <link href="http://LinBQ001.github.io/pt/Index/SPX/"/>
+    <id>http://LinBQ001.github.io/pt/Index/SPX/</id>
     <published>2018-08-20T14:40:00.000Z</published>
     <updated>2018-08-20T14:40:00.000Z</updated>
     
     <summary type="html">
     
-      Smart Money Flow Index for NASDAQ Com
+      Smart Money Flow Index for S &amp; P 500 Index
     
     </summary>
     
