@@ -7,14 +7,6 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/en/uncategorized/slider/</loc>
-        <lastmod>2018-08-21T00:10:37.916Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://LinBQ001.github.io/en/WhatIs/Introduction/</loc>
         <lastmod>2018-08-20T16:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,14 +23,6 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/en/Index/HSI/</loc>
-        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://LinBQ001.github.io/en/Index/NDX/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,7 +31,7 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/en/Index/SPX/</loc>
+        <loc>http://LinBQ001.github.io/en/Index/SSE/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -55,7 +39,15 @@
     </url>
 
     <url>
-        <loc>http://LinBQ001.github.io/en/Index/SSE/</loc>
+        <loc>http://LinBQ001.github.io/en/Index/HSI/</loc>
+        <lastmod>2018-08-20T14:40:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://LinBQ001.github.io/en/Index/SPX/</loc>
         <lastmod>2018-08-20T14:40:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

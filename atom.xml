@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://LinBQ001.github.io/"/>
-  <updated>2018-08-21T00:10:37.916Z</updated>
+  <updated>2018-08-20T14:45:00.000Z</updated>
   <id>http://LinBQ001.github.io/</id>
   
   <author>
@@ -15,57 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://LinBQ001.github.io/en/uncategorized/slider/"/>
-    <id>http://LinBQ001.github.io/en/uncategorized/slider/</id>
-    <published>2018-08-21T01:48:07.805Z</published>
-    <updated>2018-08-21T00:10:37.916Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-    &lt;head&gt;
-        &lt;meta charset=&quot;utf-8&quot;&gt;
-        &lt;title&gt;slider.py example&lt;/title&gt;
-        
-&lt;link
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>HSI</title>
-    <link href="http://LinBQ001.github.io/en/Index/HSI/"/>
-    <id>http://LinBQ001.github.io/en/Index/HSI/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for Hang Seng Index
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
   
   <entry>
     <title>DJIA</title>
@@ -77,50 +26,6 @@
     <summary type="html">
     
       Smart Money Flow Index for Dow Jones Industrial Average
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>NDX</title>
-    <link href="http://LinBQ001.github.io/en/Index/NDX/"/>
-    <id>http://LinBQ001.github.io/en/Index/NDX/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for Nasdaq Composite
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SPX</title>
-    <link href="http://LinBQ001.github.io/en/Index/SPX/"/>
-    <id>http://LinBQ001.github.io/en/Index/SPX/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for S &amp; P 500 Index
     
     </summary>
     
@@ -156,6 +61,28 @@
   </entry>
   
   <entry>
+    <title>NDX</title>
+    <link href="http://LinBQ001.github.io/en/Index/NDX/"/>
+    <id>http://LinBQ001.github.io/en/Index/NDX/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
+    
+    <summary type="html">
+    
+      Smart Money Flow Index for Nasdaq Composite
+    
+    </summary>
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+    
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
+    
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
+    
+  </entry>
+  
+  <entry>
     <title>SSE</title>
     <link href="http://LinBQ001.github.io/en/Index/SSE/"/>
     <id>http://LinBQ001.github.io/en/Index/SSE/</id>
@@ -165,6 +92,50 @@
     <summary type="html">
     
       Smart Money Flow Index for NASDAQ Com
+    
+    </summary>
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+    
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
+    
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HSI</title>
+    <link href="http://LinBQ001.github.io/en/Index/HSI/"/>
+    <id>http://LinBQ001.github.io/en/Index/HSI/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
+    
+    <summary type="html">
+    
+      Smart Money Flow Index for Hang Seng Index
+    
+    </summary>
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+    
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
+    
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SPX</title>
+    <link href="http://LinBQ001.github.io/en/Index/SPX/"/>
+    <id>http://LinBQ001.github.io/en/Index/SPX/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
+    
+    <summary type="html">
+    
+      Smart Money Flow Index for S &amp; P 500 Index
     
     </summary>
     
