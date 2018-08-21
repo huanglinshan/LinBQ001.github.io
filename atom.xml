@@ -46,6 +46,28 @@
   </entry>
   
   <entry>
+    <title>HSI</title>
+    <link href="http://LinBQ001.github.io/en/Index/HSI/"/>
+    <id>http://LinBQ001.github.io/en/Index/HSI/</id>
+    <published>2018-08-20T14:40:00.000Z</published>
+    <updated>2018-08-20T14:40:00.000Z</updated>
+    
+    <summary type="html">
+    
+      Smart Money Flow Index for Hang Seng Index
+    
+    </summary>
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
+    
+    
+      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
+    
+      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
+    
+  </entry>
+  
+  <entry>
     <title>DJIA</title>
     <link href="http://LinBQ001.github.io/en/Index/DJIA/"/>
     <id>http://LinBQ001.github.io/en/Index/DJIA/</id>
@@ -99,28 +121,6 @@
     <summary type="html">
     
       Smart Money Flow Index for S &amp; P 500 Index
-    
-    </summary>
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/categories/Index/"/>
-    
-    
-      <category term="Index" scheme="http://LinBQ001.github.io/tags/Index/"/>
-    
-      <category term="Technical Analysis" scheme="http://LinBQ001.github.io/tags/Technical-Analysis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HSI</title>
-    <link href="http://LinBQ001.github.io/en/Index/HSI/"/>
-    <id>http://LinBQ001.github.io/en/Index/HSI/</id>
-    <published>2018-08-20T14:40:00.000Z</published>
-    <updated>2018-08-20T14:40:00.000Z</updated>
-    
-    <summary type="html">
-    
-      Smart Money Flow Index for Hang Seng Index
     
     </summary>
     
